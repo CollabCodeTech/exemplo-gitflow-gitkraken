@@ -1,0 +1,1 @@
+# GitFlow no GitKraken
